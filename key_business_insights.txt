@@ -1,0 +1,25 @@
+KEY BUSINESS INSIGHTS
+==============================
+
+🏆 TOP CITIES BY ORDERS:
+•  Hyderabad: 15,613 orders
+•  Jaipur: 14,438 orders
+•  Mumbai: 13,535 orders
+
+⏰ PEAK ORDER HOURS:
+• 14:00-15:00: 19,204 orders
+• 15:00-16:00: 18,765 orders
+• 16:00-17:00: 17,713 orders
+
+🚀 FASTEST DELIVERY CITIES:
+•  Magrath Road: 14.05min avg, 94% on-time
+•  Malleshwaram: 14.29min avg, 91% on-time
+•  New Delhi: 14.85min avg, 95% on-time
+
+📍 DELIVERY TIME BY DISTANCE:
+• 0-2km: 11.34min avg (19,822.0 orders)
+• 2-4km: 14.01min avg (42,051.0 orders)
+• 4-6km: 17.66min avg (36,629.0 orders)
+• 6-8km: 20.56min avg (18,585.0 orders)
+• 8-10km: 23.51min avg (5,075.0 orders)
+• 10km+: 29.97min avg (1,495.0 orders)
